@@ -1,2 +1,3 @@
 Get-Member
 Get-Process
+Install-Module -Name ImportExcel
